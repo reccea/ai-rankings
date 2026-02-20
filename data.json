@@ -1,0 +1,59 @@
+{
+  "intelligenceIndex": [
+    {"name": "Gemini 3.1 Pro Preview", "provider": "Google", "score": 57.05},
+    {"name": "Claude Opus 4.6 (max)", "provider": "Anthropic", "score": 53.03},
+    {"name": "Claude Sonnet 4.6 (max)", "provider": "Anthropic", "score": 51.27},
+    {"name": "GPT-5.2 (xhigh)", "provider": "OpenAI", "score": 51.24},
+    {"name": "Claude Opus 4.5", "provider": "Anthropic", "score": 49.69},
+    {"name": "GLM-5", "provider": "Z AI", "score": 49.64},
+    {"name": "GPT-5.2 Codex (xhigh)", "provider": "OpenAI", "score": 48.98},
+    {"name": "Gemini 3 Pro Preview (high)", "provider": "Google", "score": 48.44},
+    {"name": "GPT-5.1 (high)", "provider": "OpenAI", "score": 47.56},
+    {"name": "Kimi K2.5", "provider": "Moonshot AI", "score": 46.73},
+    {"name": "GPT-5.2 (medium)", "provider": "OpenAI", "score": 46.58},
+    {"name": "Gemini 3 Flash", "provider": "Google", "score": 46.40},
+    {"name": "Claude Opus 4.6", "provider": "Anthropic", "score": 46.39},
+    {"name": "Qwen3.5 397B A17B", "provider": "Alibaba", "score": 45.00},
+    {"name": "GPT-5 (high)", "provider": "OpenAI", "score": 44.57}
+  ],
+  "swebench": [
+    {"name": "Claude 4.5 Opus medium (20251101)", "provider": "Anthropic", "score": 74.40},
+    {"name": "Gemini 3 Pro Preview (2025-11-18)", "provider": "Google DeepMind", "score": 74.20},
+    {"name": "GPT-5.2 (2025-12-11) (high reasoning)", "provider": "OpenAI", "score": 71.80},
+    {"name": "Claude 4.5 Sonnet (20250929)", "provider": "Anthropic", "score": 70.60},
+    {"name": "GPT-5.2 (2025-12-11)", "provider": "OpenAI", "score": 69.00},
+    {"name": "Claude 4 Opus (20250514)", "provider": "Anthropic", "score": 67.60},
+    {"name": "GPT-5.1-codex (medium reasoning)", "provider": "OpenAI", "score": 66.00},
+    {"name": "GPT-5.1 (2025-11-13) (medium reasoning)", "provider": "OpenAI", "score": 66.00},
+    {"name": "GPT-5 (2025-08-07) (medium reasoning)", "provider": "OpenAI", "score": 65.00},
+    {"name": "Claude 4 Sonnet (20250514)", "provider": "Anthropic", "score": 64.93},
+    {"name": "Kimi K2 Thinking", "provider": "Moonshot AI", "score": 63.40},
+    {"name": "Minimax M2", "provider": "Minimax", "score": 61.00},
+    {"name": "DeepSeek V3.2 Reasoner", "provider": "DeepSeek", "score": 60.00},
+    {"name": "GPT-5 mini (2025-08-07) (medium reasoning)", "provider": "OpenAI", "score": 59.80},
+    {"name": "o3 (2025-04-16)", "provider": "OpenAI", "score": 58.40}
+  ],
+  "hle": [
+    {"name": "Gemini 3 Pro Preview", "provider": "Google", "score": 37.52},
+    {"name": "Claude Opus 4.6 (Thinking Max)", "provider": "Anthropic", "score": 34.44},
+    {"name": "GPT-5 Pro (2025-10-06)", "provider": "OpenAI", "score": 31.64},
+    {"name": "GPT-5.2 (2025-12-11)", "provider": "OpenAI", "score": 27.80},
+    {"name": "GPT-5 (2025-08-07)", "provider": "OpenAI", "score": 25.32},
+    {"name": "Claude Opus 4.5 Thinking", "provider": "Anthropic", "score": 25.20},
+    {"name": "Kimi K2.5", "provider": "Moonshot AI", "score": 24.37},
+    {"name": "GPT-5.1 Thinking", "provider": "OpenAI", "score": 23.68},
+    {"name": "Gemini 2.5 Pro Preview", "provider": "Google", "score": 21.64},
+    {"name": "o3 (high) (April 2025)", "provider": "OpenAI", "score": 20.32},
+    {"name": "GPT-5 mini (2025-08-07)", "provider": "OpenAI", "score": 19.44},
+    {"name": "o3 (medium) (April 2025)", "provider": "OpenAI", "score": 19.20},
+    {"name": "Claude Opus 4.6 (Non-Thinking)", "provider": "Anthropic", "score": 19.00},
+    {"name": "Gemini 2.5 Pro Experimental", "provider": "Google", "score": 18.16},
+    {"name": "o4-mini (high)", "provider": "OpenAI", "score": 18.08}
+  ],
+  "lastUpdate": "2026-02-20T12:00:00Z",
+  "sources": {
+    "artificialAnalysis": "https://artificialanalysis.ai/#artificial-analysis-intelligence-index",
+    "swebench": "https://www.swebench.com/",
+    "hle": "https://artificialanalysis.ai/evaluations/humanitys-last-exam"
+  }
+}
