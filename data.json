@@ -34,21 +34,21 @@
     {"name": "o3 (2025-04-16)", "provider": "OpenAI", "score": 58.40}
   ],
   "hle": [
-    {"name": "Gemini 3 Pro Preview", "provider": "Google", "score": 37.52},
-    {"name": "Claude Opus 4.6 (Thinking Max)", "provider": "Anthropic", "score": 34.44},
-    {"name": "GPT-5 Pro (2025-10-06)", "provider": "OpenAI", "score": 31.64},
-    {"name": "GPT-5.2 (2025-12-11)", "provider": "OpenAI", "score": 27.80},
-    {"name": "GPT-5 (2025-08-07)", "provider": "OpenAI", "score": 25.32},
+    {"name": "Gemini 3.1 Pro Preview", "provider": "Google", "score": 44.70},
+    {"name": "Gemini 3 Pro Preview (high)", "provider": "Google", "score": 37.20},
+    {"name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)", "provider": "Anthropic", "score": 36.70},
+    {"name": "GPT-5 Pro", "provider": "OpenAI", "score": 31.64},
+    {"name": "GPT-5.2", "provider": "OpenAI", "score": 27.80},
+    {"name": "GPT-5", "provider": "OpenAI", "score": 25.32},
     {"name": "Claude Opus 4.5 Thinking", "provider": "Anthropic", "score": 25.20},
     {"name": "Kimi K2.5", "provider": "Moonshot AI", "score": 24.37},
     {"name": "GPT-5.1 Thinking", "provider": "OpenAI", "score": 23.68},
     {"name": "Gemini 2.5 Pro Preview", "provider": "Google", "score": 21.64},
-    {"name": "o3 (high) (April 2025)", "provider": "OpenAI", "score": 20.32},
-    {"name": "GPT-5 mini (2025-08-07)", "provider": "OpenAI", "score": 19.44},
-    {"name": "o3 (medium) (April 2025)", "provider": "OpenAI", "score": 19.20},
+    {"name": "o3 (high)", "provider": "OpenAI", "score": 20.32},
+    {"name": "GPT-5 mini", "provider": "OpenAI", "score": 19.44},
+    {"name": "o3 (medium)", "provider": "OpenAI", "score": 19.20},
     {"name": "Claude Opus 4.6 (Non-Thinking)", "provider": "Anthropic", "score": 19.00},
-    {"name": "Gemini 2.5 Pro Experimental", "provider": "Google", "score": 18.16},
-    {"name": "o4-mini (high)", "provider": "OpenAI", "score": 18.08}
+    {"name": "Gemini 2.5 Pro Experimental", "provider": "Google", "score": 18.16}
   ],
   "lastUpdate": "2026-02-20T12:00:00Z",
   "sources": {
